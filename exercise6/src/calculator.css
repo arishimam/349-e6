@@ -19,13 +19,13 @@ body {
   height: 45px;
   border: 1px solid rgb(133, 113, 113);
   text-align: end;
-  line-height: 40px;
+  line-height: 30px;
   font-size: 30px;
-  /* font-weight: bold; */
   margin: 15px;
   padding: 5px;
   background: whitesmoke;
-
+  justify-content: center;
+  align-items: center;
   overflow: hidden;
   border-radius: 5px;
 }
